@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/Lukas-Ramos">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&weight=500&size=45&pause=1000&color=66B933&center=true&vCenter=true&width=650&height=120&lines=Front-end+Developer+;UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&weight=500&size=45&pause=1000&color=66B933&center=true&vCenter=true&width=650&height=120&lines=🤖Front-end+Developer+;👾UI%2FUX+Designer" alt="Typing SVG" />
   </a>
 </p>
 
