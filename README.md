@@ -128,7 +128,7 @@
 
 <!-- ###### END OF My Github Stats  ##### -->
 
-
+![Snake animation](https://github.com/Lukas-Ramos/Lukas-Ramos/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ###### QUOTE OF THE DAY ##### -->
 
