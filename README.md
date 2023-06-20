@@ -46,10 +46,10 @@
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
 </h4>
 
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/javascript-512.png" width="35" alt="Java Script"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/php.png" width="35" alt="PHP"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/sql.png" width="35" alt="SQL"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/visual-studio-code-2019-512.png" width="35" alt="VS Code"/></code>
+<code><img src="icons/gradient/javascript-512.png" width="35" alt="Java Script"/></code>
+<code><img src="icons/gradient/php.png" width="35" alt="PHP"/></code>
+<code><img src="icons/gradient/sql.png" width="35" alt="SQL"/></code>
+<code><img src="icons/gradient/visual-studio-code-2019-512.png" width="35" alt="VS Code"/></code>
 
 <!-- ###### END OF Languages | Tools ##### -->
 
@@ -61,8 +61,8 @@
   📖 Currently Learning 📖 
 </h4>
 
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/java-512.png" width="35" alt="Java"/></code>
-<code><img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/python-512.png" width="35" alt="Python"/></code>
+<code><img src="icons/gradient/java-512.png" width="35" alt="Java"/></code>
+<code><img src="icons/gradient/python-512.png" width="35" alt="Python"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="35" alt="TypeScript"/></code>
 
 
@@ -157,16 +157,16 @@
 
 <p align="center">
   <a href="https://www.instagram.com/lucas_ramos_magalhaes" target="_blank" rel="noreferrer">
-    <img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/instagram-512.png" width="35"/>
+    <img src="icons/gradient/instagram-512.png" width="35"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-ramos-35296524b" target="_blank" rel="noreferrer">
-    <img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/linkedin-512.png" width="35" />
+    <img src="icons/gradient/linkedin-512.png" width="35" />
   </a>
   <a href="https://twitter.com/lucasramosx10" target="_blank" rel="noreferrer">
-    <img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/twitter-512.png" width="35" />
+    <img src="icons/gradient/twitter-512.png" width="35" />
   </a>
   <a href="mailto:lucasramosx10@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/The-Young-Programmer/The-Young-Programmer/raw/main/imgs/gradient/gmail-logo-512.png" width="35"/>
+    <img src="icons/gradient/gmail-logo-512.png" width="35"/>
   </a>
 </p>
 
