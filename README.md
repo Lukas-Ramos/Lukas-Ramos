@@ -50,6 +50,8 @@
 <code><img src="icons/gradient/php.png" width="35" alt="PHP"/></code>
 <code><img src="icons/gradient/sql.png" width="35" alt="SQL"/></code>
 <code><img src="icons/gradient/visual-studio-code-2019-512.png" width="35" alt="VS Code"/></code>
+<code><img src="icons/gradient/python-512.png" width="35" alt="Python"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="35" alt="TypeScript"/></code>
 
 <!-- ###### END OF Languages | Tools ##### -->
 
